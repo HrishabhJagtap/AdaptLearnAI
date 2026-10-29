@@ -1,4 +1,4 @@
-# AdaptLearn AI — 1-Day MVP
+# AdaptLearn AI — MVP
 
 **Problem Statement PS-1:** Develop an AI-Based Personalized Learning Content Generator.
 
